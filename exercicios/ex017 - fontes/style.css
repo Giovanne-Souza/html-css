@@ -1,0 +1,25 @@
+@charset "UTF-8"
+* 
+{font-family: Arial, Helvetica, sans-serif  ; }
+body {
+    font-size: 1.5em;
+    background: rgb(64,35,24);
+background: radial-gradient(circle, rgba(64,35,24,1) 0%, rgba(241,74,12,1) 95%);
+   font-weight: 900;
+    }
+
+    h1 {
+        color:#402318;
+    }
+    h2 {
+        color:#402318
+    }
+   
+    
+    img {
+         display: flex; 
+        justify-content: center;
+          }
+          
+    
+    
